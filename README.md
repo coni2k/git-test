@@ -1,4 +1,6 @@
 # git-test
 git test 2
 git test
-3
+
+---
+new line on new branch
